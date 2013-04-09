@@ -39,7 +39,7 @@
     });
 
     $alert.css({
-      'position': 'absolute',
+      'position': 'fixed',
       'top': top_offset + 'px',
       'border': '1px solid ' + $alert.css('color'),
       'margin': 0,
